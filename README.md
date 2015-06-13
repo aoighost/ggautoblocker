@@ -1,3 +1,19 @@
+# Showing why this is a bad idea
+
+This modified version of the GG Auto Blocker changed the sourcelist to include wikileaks and known whistleblowers/associalted accounts. This is intended to demonstrate how a blocklist like this can be turned against political dissent and the spread of how large that block can become.
+
+NOTE: This is not in support of GamerGate, this is showing why this is a flawed implementation and a flawed idea. This is showing why this idea needs work and why blindly accepting blocklists as acceptable is a dangerous idea. Imagine if in order to hold a security clearance you were required to subscribe to this blocklist. The US Department of Defense has a history of denying access to websites containing whistleblower content to people who serve and hold a clearance, do you really put it past them to enforce something like this as well knowing that?
+
+
+
+
+
+
+# Original readme
+
+
+
+
 # Good Game Auto Blocker
 
 Please see http://blog.randi.io/good-game-auto-blocker/ for a more updated version of this README.
@@ -54,4 +70,3 @@ There are currently no spots open on the appeals board, but watch this space.
 The code (though not the service) is currently in the process of being transitioned over to being managed by OAPI, so we’re not looking for any new developers yet.
 
 A step-by-step guide for setting up the ggautoblocker GamerGate blocklist with screenshots would be immensely helpful. We want instructions that a user completely new to Twitter would be able to follow. If you’d like to put that together, email or use the Contact page to submit a draft.
-
